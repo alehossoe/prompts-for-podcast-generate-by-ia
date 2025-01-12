@@ -6,7 +6,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA por meio de prompts mais trabalhado.
 
-<CLIQUE AQUI src="Podcast_Margem da Lei.mp3">
+<"Podcast_Margem da Lei.mp3">
 
 
 ## 💻 Tecnologias utilizadas no projeto
@@ -22,11 +22,6 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA por meio
 - Audio gerado pela elevenLabs
 - Canva para gerar capas
 - Notion para seguir template 
-
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 
 ## 🛠️ Execução
 
