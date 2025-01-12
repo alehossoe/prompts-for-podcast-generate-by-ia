@@ -2,7 +2,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA por meio de prompts mais trabalhado.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<https://github.com/alehossoe/prompts-for-podcast-generate-by-ia/blob/main/Podcast_Margem%20da%20Lei.mp3> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
