@@ -6,7 +6,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA por meio de prompts mais trabalhado.
 
-<a href="https://github.com/alehossoe/prompts-recipe-to-create-a-ebook/blob/7ee75957a70d7c2451dccc5b7abe667e14a17db2/Ebook_Inexigibilidade%20Descomplicada%20.pdf"> 📕Clique aqui para ler</a><"Podcast_Margem da Lei.mp3">
+<a href="https://github.com/alehossoe/prompts-for-podcast-generate-by-ia/blob/32194c88dddae2ef4d73fa95f74af969500614bf/Podcast_Margem%20da%20Lei.mp3"> 📕Clique aqui para ler
 
 
 ## 💻 Tecnologias utilizadas no projeto
