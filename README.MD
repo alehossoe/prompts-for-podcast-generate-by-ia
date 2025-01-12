@@ -23,10 +23,8 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA por meio
 
 ## 🛠️ Execução
 
-Utilizei os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada
+Utilizei os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada.
 
 - 🤖 1. Usei os prompts de roteiro no `chagpt`
 - 🤖 2. Usei os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Usei os prompts de artes no `canva`
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
