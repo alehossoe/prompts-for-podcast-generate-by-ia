@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="300" src=".github/assets/banner.png">
+</p>
+
 # Projeto Podcast Gerado por I.A.s
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA por meio de prompts mais trabalhado.
