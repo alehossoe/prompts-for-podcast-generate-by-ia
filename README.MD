@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src=".github/assets/banner.png">
+    <img width="300" src="image.webp">
 </p>
 
 # Projeto Podcast Gerado por I.A.s
