@@ -6,7 +6,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA por meio de prompts mais trabalhado.
 
-<a href="https://github.com/alehossoe/prompts-for-podcast-generate-by-ia/blob/32194c88dddae2ef4d73fa95f74af969500614bf/Podcast_Margem%20da%20Lei.mp3"> 📕Clique aqui para ler
+<a href="https://github.com/alehossoe/prompts-for-podcast-generate-by-ia/blob/32194c88dddae2ef4d73fa95f74af969500614bf/Podcast_Margem%20da%20Lei.mp3"> 📕Clique aqui para ouvir
 
 
 ## 💻 Tecnologias utilizadas no projeto
