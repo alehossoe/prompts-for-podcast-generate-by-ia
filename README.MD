@@ -1,7 +1,6 @@
 # Projeto Podcast Gerado por I.A.s
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA por meio de prompts mais trabalhado.
-
 <"https://github.com/alehossoe/prompts-for-podcast-generate-by-ia/blob/a2e06637442f3fe2c189bc12e8f0ae21a04cb358/Podcast_Margem%20da%20Lei.mp3"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
